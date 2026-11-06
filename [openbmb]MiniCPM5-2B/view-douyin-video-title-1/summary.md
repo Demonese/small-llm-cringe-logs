@@ -5,8 +5,8 @@
 | 项目 | 内容 |
 | --- | --- |
 | 会话名 | 看抖音首页视频标题2 |
-| 模型 | `llama-cpp` / `openbmb/MiniCPM5-2B-GGUF:Q8_0`（中途由 `deepseek/deepseek-flash` 切换而来） |
-| 思考等级 | high |
+| 模型 | `llama-cpp` / `openbmb/MiniCPM5-2B-GGUF:Q8_0` |
+| 思考等级 | on |
 | 工作目录 | `D:\Project\ai\chrome-devtools-mcp-workspace` |
 | 时间跨度 | 2026-11-06 06:43:38 → 07:10:37（约 27 分钟） |
 | 日志条目 | 203 条（含 1 次上下文压缩 compaction，发生在第 189 条） |
